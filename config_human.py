@@ -3,16 +3,28 @@
 ####################
 
 # The instruction text to display in the beginning
-INSTRUCTION_TEXT = """Welcome to this experiment!
+INSTRUCTION_TEXT = """PLEASE READ THESE INSTRUCTIONS CAREFULLY
 
-Try to get as many happy faces as possible and as few sad faces as possible.
+In this experiment, you will see different shapes on screen. Touching
+some shapes will make a happy face appear, touching other shapes will
+make a sad face appear. Your task is to get as many happy faces as
+possible and as few sad faces.
 
-Press the space bar to start.
+THE TWO PARTICIPANTS WITH THE HIGHER SCORE (HAPPY FACES MINUS SAD
+FACES) WILL RECEIVE A $25 STARBUCKS GIFT CARD.
+
+Make sure to leave your SONA ID to enter the contest.
+
+You may interrupt the experiment at any time without penalty. If you
+interrupt, you will still receive course credit, but you will not
+enter the gift card contest.
+
+Please press the space bar to start.
 """
 
 FINISH_TEXT = """Thank you for participating in this experiment!
 
-Some information here.
+You will now receive an information sheet.
 """
 
 # The font and font size of the INSTRUCTION_TEXT and FINISH_TEXT
